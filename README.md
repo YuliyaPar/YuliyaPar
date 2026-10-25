@@ -9,3 +9,11 @@
 * Работа с требованиями и макетами в Figma.
 * Тестирование API (Postman).
 * Инструменты: Chrome DevTools, Android Studio, YouGile, Python (базовый).
+* ---
+
+## 📁 Мои проекты (Портфолио):
+
+### 🛒 [Intershop](https://github.com/YuliyaPar/Intershop-QA)
+*Тестирование интернет-магазина (Web, API, DevTools).*
+* **Что внутри:** 223 тест-кейса, 55 баг-репортов, анализ ТЗ, UI, функциональное, API-тестирование и безопасность.
+* **Результат:** Найдены критичные баги (регистрация, расчет стоимости), составлен [итоговый отчет](https://docs.google.com/document/d/1Y_mLYAmBktWyhUDoNReTkW2XRuKTUsaku9Uyh21ZWk0/edit?usp=sharing).
