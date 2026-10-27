@@ -11,9 +11,24 @@
 * Инструменты: Chrome DevTools, Android Studio, YouGile, Python (базовый).
 * ---
 
+---
+
 ## 📁 Мои проекты (Портфолио):
 
-### 🛒 [Intershop](https://github.com/YuliyaPar/Intershop-QA)
+### 🛒 [Intershop-QA](https://github.com/YuliyaPar/Intershop-QA)
 *Тестирование интернет-магазина (Web, API, DevTools).*
 * **Что внутри:** 223 тест-кейса, 55 баг-репортов, анализ ТЗ, UI, функциональное, API-тестирование и безопасность.
 * **Результат:** Найдены критичные баги (регистрация, расчет стоимости), составлен [итоговый отчет](https://docs.google.com/document/d/1Y_mLYAmBktWyhUDoNReTkW2XRuKTUsaku9Uyh21ZWk0/edit?usp=sharing).
+* [Примеры баг-репортов (UI, API, Безопасность)](https://github.com/YuliyaPar/Intershop-QA/blob/main/Bug_Reports_Examples.md)
+
+### 🎬 [SkillCinema-QA](https://github.com/YuliyaPar/SkillCinema-QA)
+*Тестирование мобильного приложения (Android).*
+* **Что внутри:** 66 тест-кейсов (включая Smoke), анализ ошибок в ТЗ, баг-репорты по UI и функционалу.
+* **Результат:** Проверены онбординг, главная, поиск, профиль и навигация. Составлен [итоговый отчет](https://github.com/YuliyaPar/SkillCinema-QA/blob/main/Test_Report_SkillCinema.md).
+* [Примеры баг-репортов (UI, Логика)](https://github.com/YuliyaPar/SkillCinema-QA/blob/main/Bug_Reports_SkillCinema.md)
+
+### 🤝 [Hitch-QA](https://github.com/YuliyaPar/Hitch-QA)
+*Тестирование веб- и мобильного приложения (аутстафф).*
+* **Что внутри:** Тест-кейсы (регистрация, ЛК, заявки), кросс-ревью, 6 баг-репортов.
+* **Результат:** Проверены формы, личный кабинет и регресс.
+* [Примеры баг-репортов (Веб, Мобилка)](https://github.com/YuliyaPar/Hitch-QA/blob/main/Bug_Reports_Hitch.md)
